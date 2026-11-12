@@ -1,4 +1,4 @@
-# 👋 Hi, I'm `Your Name`!
+# 👋 Hi, I'm `Yumin Lee`!
 
 ### 📊 Aspiring Data Analyst | Python & Statistical Analysis
 
@@ -63,8 +63,8 @@ Python과 통계학을 기반으로 데이터를 분석하고, 데이터 속에 
 
 ### 📫 Contact
 
-- GitHub: [@`YourGitHubID`](https://github.com/YourGitHubID)
-- Email: `YourEmail@example.com`
+- GitHub: [@`yum2yum2`](https://github.com/yum2yum2)
+- Email: `yumin5233@gmail.com`
 
 ---
 
